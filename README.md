@@ -1,54 +1,40 @@
+<img src="https://raw.githubusercontent.com/AshhLattee/AshhLattee/main/marceline-banner.gif" alt="marceline floating with bass" width="100%"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=45&pause=1000&color=FF355E&center=true&vCenter=true&repeat=false&width=600&lines=Ash;the+vampire+coder" alt="Ash the vampire coder"/>
+</h1>
+
+<p align="center">
+  <i>"i float through life sucking on red<br>and making bots do my bidding"</i>
+</p>
+
+<p align="center">
+  19 • 12 jan 2006 • ajman, uae<br>
+  marceline’s #1 fan • red is my color • bass goes brrr
+</p>
+
 <div align="center">
 
-<h1 style="color: #D32F2F; font-size: 38px;">90% CODE + 10% AI AUGMENTATION</h1>
+**i don’t code**  
+i whisper dark ideas to claude & grok  
+they write 90% • i add the fangs • done
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VIBE-MARCELINE_CORE-000000?style=for-the-badge&logo=music&logoColor=red" />
-  <img src="https://img.shields.io/badge/ROLE-THE_PRINCIPAL_BUILDER-000000?style=for-the-badge&logo=github&logoColor=red" />
-  <img src="https://img.shields.io/badge/BOT_LANGUAGE-PYTHON_or_JS-D32F2F?style=for-the-badge" />
-</p>
-
----
-
-<p>
-  <b>"I'm just a thousand years old, I lost track of my moral code."</b><br>
-  I'm the **Coder** of the operation. I handle the **Execution (90%)** of complex solutions, <br>
-  using AI for the remaining **10% augmentation** (consultation, initial scaffolding, and debugging). I build, I test, I ship.
-</p>
-
----
-
-<h2>🦇 Project Ivy</h2>
-<p><i>Building something that might last longer than we do.</i></p>
-
-<a href="https://discord.gg/rjTTqypw4Q">
-  <img src="https://img.shields.io/badge/ENTER_THE_NIGHTOSPHERE-(DISCORD)-D32F2F?style=for-the-badge&logo=discord&logoColor=white" height="45" />
-</a>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshhLattee&layout=compact&theme=dracula&hide_border=true&card_width=450" alt="Top Languages Card" />
-</p>
-<br>
-
-<div align="left">
-<h3>🎸 Bass Notes / Life.txt</h3>
-<pre>
-<code>
-We build our castles in the sand,
-Just specks of dust inside a hand.
-The tide rolls in, the colors fade,
-I guess I like the mess we made.
-
-It's pointless, yeah, but kind of sweet,
-To dance before the two ends meet.
-</code>
-</pre>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D32F2F&height=100&section=footer"/>
+**ivy** — my blood-red discord bot  
+gemini pro • code execution • terminal ui • chaos  
+https://discord.gg/rjTTqypw4Q
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF355E&icon_color=FF355E&text_color=FFFFFF" alt="stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=dracula&hide_border=true&background=0D1117&stroke=FF355E&ring=FF355E&fire=FF355E&currStreakLabel=FF355E" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshhLattee&color=FF355E&style=for-the-badge&label=bitten+by" alt="profile views"/>
+</div>
+
+<p align="center">
+  <i>fangs out • discord → discord.gg/rjTTqypw4Q</i>
+</p>
