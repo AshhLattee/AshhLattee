@@ -27,10 +27,15 @@
 
 <br><br>
 
+<h3 style="color: #D32F2F;">Languages & Tools</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/master/assets/langs.png" alt="Language Stack" width="600" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+---
 
 <div align="left">
 <h3>🎸 Bass Notes / Life.txt</h3>
