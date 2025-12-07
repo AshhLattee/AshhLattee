@@ -1,13 +1,11 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=500&size=38&pause=1000&color=D32F2F&center=true&vCenter=true&width=500&lines=90%25+CODE+%2B+10%25+AI+AUGMENTATION;I+BUILD+THE+NIGHTMARE;ASH+IS+THE+CODER+OF+PROJECT+IVY" alt="Typing SVG" />
-</a>
+<h1 style="color: #D32F2F; font-size: 38px;">90% CODE + 10% AI AUGMENTATION</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VIBE-MARCELINE_CORE-000000?style=for-the-badge&logo=music&logoColor=red" />
   <img src="https://img.shields.io/badge/ROLE-THE_PRINCIPAL_BUILDER-000000?style=for-the-badge&logo=github&logoColor=red" />
-  <img src="https://img.shields.io/badge/Est.-2006-000000?style=for-the-badge&logoColor=red" />
+  <img src="https://img.shields.io/badge/BOT_LANGUAGE-PYTHON_or_JS-D32F2F?style=for-the-badge" />
 </p>
 
 ---
@@ -30,14 +28,9 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshhLattee&layout=compact&theme=dracula&hide_border=true" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshhLattee&layout=compact&theme=dracula&hide_border=true&card_width=450" alt="Top Languages Card" />
 </p>
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshhLattee&theme=dracula&row=1&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
 
 <div align="left">
 <h3>🎸 Bass Notes / Life.txt</h3>
