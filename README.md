@@ -25,9 +25,9 @@ gemini pro • code execution • terminal ui • chaos
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF355E&icon_color=FF355E&text_color=FFFFFF" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF355E&text_color=FFFFFF&border_color=FF355E" alt="stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=dracula&hide_border=true&background=0D1117&stroke=FF355E&ring=FF355E&fire=FF355E&currStreakLabel=FF355E" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=radical&hide_border=true&background=000000&stroke=FF355E&ring=FF355E&fire=FF355E&currStreakLabel=FF355E" alt="streak"/>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AshhLattee&color=FF355E&style=for-the-badge&label=BITTEN+BY" alt="views"/>
 </div>
