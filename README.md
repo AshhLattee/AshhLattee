@@ -10,10 +10,12 @@
   <img src="https://img.shields.io/badge/Est.-2006-000000?style=for-the-badge&logoColor=red" />
 </p>
 
+---
+
 <p>
   <b>"I'm just a thousand years old, I lost track of my moral code."</b><br>
   I'm the **Coder** of the operation. I handle the **Execution (90%)** of complex solutions, <br>
-  using AI for the remaining **10% augmentation** (consultation, initial scaffolding, and debugging). I code, I test, I ship.
+  using AI for the remaining **10% augmentation** (consultation, initial scaffolding, and debugging). I build, I test, I ship.
 </p>
 
 ---
@@ -27,18 +29,15 @@
 
 <br><br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=dracula&hide_border=true&card_width=440" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=dracula&hide_border=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshhLattee&layout=compact&theme=dracula&hide_border=true" alt="Top Languages Card" />
+</p>
 <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshhLattee&theme=dracula&row=1&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
 
 <div align="left">
 <h3>🎸 Bass Notes / Life.txt</h3>
