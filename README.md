@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  19 • 12 jan 2006 • Oman<br>
+  19 • 12 jan 2006 • oman<br>
   marceline’s #1 fan • red is my color • bass goes brrr
 </p>
 
