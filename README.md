@@ -1,42 +1,39 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=HELLO+I'M+ASH;THE+ARCHITECT+OF+PROJECT+IVY;AI+POWERED+%2F%2F+VISION+DRIVEN;90%25+BRAIN+%2B+10%25+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=500&size=38&pause=1000&color=D32F2F&center=true&vCenter=true&width=500&lines=HEY,+I'M+ASH;JUST+YOUR+PROBLEM;THE+BRAIN+BEHIND+PROJECT+IVY;IT'S+NOT+MAGIC,+IT'S+AI" alt="Typing SVG" />
 </a>
 
-<h3>🧠 The Visionary behind the Code</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-VISION_&_DIRECTION-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/POWERED_BY-CLAUDE_+_GROK-orange?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/EST.-JAN_12_2006-lightgrey?style=for-the-badge&logo=calendar" />
+  <img src="https://img.shields.io/badge/VIBE-MARCELINE_CORE-000000?style=for-the-badge&logo=music&logoColor=red" />
+  <img src="https://img.shields.io/badge/ROLE-THE_ARCHITECT-000000?style=for-the-badge&logo=github&logoColor=red" />
+  <img src="https://img.shields.io/badge/Est.-2006-000000?style=for-the-badge&logoColor=red" />
 </p>
 
 <p>
-I don't just write code; I <b>architect solutions</b>. <br>
-I operate as the neural network of the operation—providing the <b>90% vision, logic, and architecture</b>,<br> while leveraging advanced AI models to synthesize the final <b>10% execution</b>.
+  <b>"I'm just a thousand years old, I lost track of my moral code."</b><br>
+  I’m the <b>Brain</b>. I don't write the boring syntax; I dream the nightmare and let the AI build the cage. <br>
+  I handle the <b>Vision (90%)</b>. The machines handle the <b>Code (10%)</b>.
 </p>
 
 ---
 
-<h2>🌿 Project Ivy</h2>
-<p><i>Current Status: <b>Active Development</b></i></p>
-
-> <b>The Mission:</b> A next-generation project built on pure logic and AI augmentation.
+<h2>🦇 Project Ivy</h2>
+<p><i>Building something that might last longer than we do.</i></p>
 
 <a href="https://discord.gg/rjTTqypw4Q">
-  <img src="https://img.shields.io/badge/JOIN_THE_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/ENTER_THE_NIGHTOSPHERE-(DISCORD)-D32F2F?style=for-the-badge&logo=discord&logoColor=white" height="45" />
 </a>
 
----
+<br><br>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AshhLattee&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshhLattee&theme=dracula&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -44,29 +41,22 @@ I operate as the neural network of the operation—providing the <b>90% vision, 
 <br>
 
 <div align="left">
-<h3>📜 /etc/reflections/life.txt</h3>
+<h3>🎸 Bass Notes / Life.txt</h3>
 <pre>
 <code>
-A clock ticks down an hour not its own,
-A shadow falls on ground it's never sown.
-We build in sand a castle tall and bright,
-To watch the tide erase it in the night.
+We build our castles in the sand,
+Just specks of dust inside a hand.
+The tide rolls in, the colors fade,
+I guess I like the mess we made.
 
-The meaning sought, a whisper in the air,
-A silent question posed to empty stair.
-We rise, we toil, we laugh at passing day,
-A brilliant bloom that knows it must decay.
-
-And yet, within this strange and finite span,
-To dream, to build, to break the rigid plan—
-Perhaps the point is not the final cost,
-But the brief, loud echo of the time we lost.
+It's pointless, yeah, but kind of sweet,
+To dance before the two ends meet.
 </code>
 </pre>
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D32F2F&height=100&section=footer"/>
 
 </div>
